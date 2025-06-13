@@ -6,4 +6,4 @@
 - [2.] git fetch
 - [3.] git config pull.rebase true
 - [4.] git pull
-- [5.] git push
+- [5.] git push --set-upstream origin main
