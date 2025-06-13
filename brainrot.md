@@ -14,6 +14,7 @@
 - :CellularAutomaton pulse
 - :CellularAutomaton ripple
 - :CellularAutomaton wave
+- :CellularAutomaton swirl
 
 - :Duck hatch (spawn duck)
 - :Duck cook (remove one duck)
