@@ -12,7 +12,7 @@
 - pipes.sh (has to be cloned: git clone git@github.com:pipeseroni/pipes.sh.git)
 - ceyes
 - fortune (Outputs random quotes, jokes, or witty sayings, often with a geeky or humorous bent)
-- hollywood (Creates a Hollywood-style “hacker” terminal display with scrolling code, windows, and fake techy outpu)
+- hollywood (Creates a Hollywood-style “hacker” terminal display with scrolling code, windows, and fake techy output)
 - lolcat (Adds rainbow colors to any text output in the terminal, making your commands look vibrant and fun)
 - cbonsai --live (Generates an animated ASCII bonsai tree that grows in your terminal)
 - btop (A modern, visually stunning system monitor with graphs and detailed stats, built in C++ for speed)
