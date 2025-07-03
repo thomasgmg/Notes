@@ -6,6 +6,10 @@
 - cowsay ThingYouWantTheCowToSay (everything is drawn in Ascii)
 - figlet ThingYouWantInAscii
 - sl (Displays an animated Ascii steam locomotive chugging across your terminal when you mistype ls as sl)
+- toilet (e.g. toilet -f mono12 -F border "Cool Text")
+- boxes (e.g. echo "Hello!" | boxes -d stone (or cat/dog instead of stone etc..))
+- nyancat
+- tty-clock
 
 ## Other fun stuff:
 - cool-retro-term / cool-retro-term --fullscreen (mimics old CRT monitors)
@@ -18,11 +22,17 @@
 - lolcat (Adds rainbow colors to any text output in the terminal, making your commands look vibrant and fun)
 - cbonsai --live (Generates an animated ASCII bonsai tree that grows in your terminal)
 - btop (A modern, visually stunning system monitor with graphs and detailed stats, built in C++ for speed)
+- fastfetch
 
-### Combine some of these things:
+### Games
+- bastet
+- ninvaders
+- moon-buggy
+
+#### Combine some of these things:
 - fortune | cowsay | lolcat
 
-#### Cool 3d/system stuff:
+##### Cool 3d/system stuff:
 - glmark2
 - vkmark
 - vkcube
