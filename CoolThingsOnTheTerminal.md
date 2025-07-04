@@ -15,7 +15,7 @@
 - cool-retro-term / cool-retro-term --fullscreen (mimics old CRT monitors)
 - cmatrix (can also be run with: cmatrix -r (various colors simultaneously) cmatrix -ba -u 2 -C red (Valid colors are green, red, blue, white, yellow, cyan, magenta and black))
 - pipes.sh (has to be cloned: git clone git@github.com:pipeseroni/pipes.sh.git)
-- ceyes
+- xeyes
 - fortune (Outputs random quotes, jokes, or witty sayings, often with a geeky or humorous bent)
 - hollywood (Creates a Hollywood-style “hacker” terminal display with scrolling code, windows, and fake techy output)
 - lolcat (Adds rainbow colors to any text output in the terminal, making your commands look vibrant and fun)
