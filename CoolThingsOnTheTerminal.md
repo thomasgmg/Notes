@@ -6,7 +6,7 @@
 - cowsay ThingYouWantTheCowToSay (everything is drawn in Ascii)
 - figlet ThingYouWantInAscii
 - sl (Displays an animated Ascii steam locomotive chugging across your terminal when you mistype ls as sl)
-- toilet (e.g. toilet -f mono12 -F border "Cool Text")
+- toilet (e.g. toilet -f mono12 -F border "Text")
 - boxes (e.g. echo "Hello!" | boxes -d stone (or cat/dog instead of stone etc..))
 - nyancat
 - tty-clock
@@ -32,8 +32,7 @@
 - fortune | cowsay | lolcat
 
 ##### Cool 3d/system stuff:
-- glmark2
-- vkmark
+- glmark2 / vkmark
 - vkcube
-- vkgears
+- vkgears / glxgears
 - inxi (system info)
