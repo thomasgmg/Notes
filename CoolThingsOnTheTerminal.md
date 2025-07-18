@@ -10,6 +10,8 @@
 - boxes (e.g. echo "Hello!" | boxes -d stone (or cat/dog instead of stone etc..))
 - nyancat
 - tty-clock
+- aafire (sudo apt install libaa-bin)
+- jp2a ~/path/to/your/image (or e.g. jp2a --colors ~/path/to/your/image)
 
 ## Other fun stuff:
 - cool-retro-term / cool-retro-term --fullscreen (mimics old CRT monitors)
@@ -21,7 +23,9 @@
 - lolcat (Adds rainbow colors to any text output in the terminal, making your commands look vibrant and fun)
 - cbonsai --live (Generates an animated ASCII bonsai tree that grows in your terminal)
 - btop (A modern, visually stunning system monitor with graphs and detailed stats, built in C++ for speed)
+- htop
 - fastfetch
+- espeak "Your text" (a robotic voice speaks out your text)
 
 ### Games
 - bastet
