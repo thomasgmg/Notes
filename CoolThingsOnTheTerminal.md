@@ -13,7 +13,7 @@
 - aafire (sudo apt install libaa-bin)
 - jp2a ~/path/to/your/image (or e.g. jp2a --colors ~/path/to/your/image)
 
-## Other fun stuff:
+# Other fun stuff:
 - cool-retro-term / cool-retro-term --fullscreen (mimics old CRT monitors)
 - cmatrix (can also be run with: cmatrix -r (various colors simultaneously) cmatrix -ba -u 2 -C red (Valid colors are green, red, blue, white, yellow, cyan, magenta and black))
 - pipes.sh (has to be cloned: git clone git@github.com:pipeseroni/pipes.sh.git)
@@ -27,15 +27,15 @@
 - fastfetch
 - espeak "Your text" (a robotic voice speaks out your text)
 
-### Games
+# Games
 - bastet
 - ninvaders
 - moon-buggy
 
-#### Combine some of these things:
+# Combine some of these things:
 - fortune | cowsay | lolcat
 
-##### Cool 3d/system stuff:
+# Cool 3d/system stuff:
 - glmark2 / vkmark
 - vkcube
 - vkgears / glxgears
