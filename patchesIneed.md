@@ -17,6 +17,6 @@
 - [x] scratchpads
 - setxkbgroup (allows idempotent keyboard layout switching from dwm)
 - statuscmd
-- sticky + stickyindicator (I would although use this symbol in stickyindicator:  or  )
+- [x] sticky + stickyindicator (I would although use this symbol in stickyindicator:  or  )
 - [x] vanitygaps
 - [x] winicon
