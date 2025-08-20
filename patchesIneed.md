@@ -5,11 +5,9 @@
 # Patches everybody needs when using DWM:
 - [x] barpadding
 - [x] cyclelayouts
-- exitmenu + restartsig (needed)
 - [x] hide vacant tags
-- keybindings / keychain / Keychord
-- keymodes
-- [x] layoutmenu (Xmenu needs to be installed ->  )
+- keybindings / keychain / Keychord / keymodes
+- [x] layoutmenu
 - [x] movecenter
 - [x] moveresize
 - [x] pertag
@@ -17,6 +15,7 @@
 - [x] scratchpads
 - setxkbgroup (allows idempotent keyboard layout switching from dwm)
 - statuscmd
-- [x] sticky + stickyindicator (I would although use this symbol in stickyindicator:  or  )
+- [x] sticky + stickyindicator
+- [x] systray
 - [x] vanitygaps
 - [x] winicon
