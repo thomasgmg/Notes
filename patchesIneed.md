@@ -16,6 +16,6 @@
 - setxkbgroup (allows idempotent keyboard layout switching from dwm)
 - statuscmd
 - [x] sticky + stickyindicator
-- [x] systray
+<!-- - [x] systray (have to analyse this carefully 'cause it messes with the barpadding patch I applied) -->
 - [x] vanitygaps
 - [x] winicon
