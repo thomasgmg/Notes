@@ -6,14 +6,14 @@
 - [x] barpadding
 - [x] cyclelayouts
 - [x] hide vacant tags
-- keybindings / keychain / Keychord / keymodes
+- [ ] keybindings / keychain / Keychord / keymodes
 - [x] layoutmenu
 - [x] movecenter
 - [x] moveresize
 - [x] pertag
 - [x] movestack
 - [x] scratchpads
-- statuscmd
+- [ ] statuscmd
 - [x] sticky + stickyindicator
 <!-- - [x] systray (have to analyse this carefully 'cause it messes with the barpadding patch I applied) -->
 - [x] vanitygaps
