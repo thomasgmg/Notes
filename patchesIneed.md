@@ -11,7 +11,7 @@
 - [x] movecenter
 - [x] moveresize
 - [x] pertag
-- Rotate stack
+- [x] movestack
 - [x] scratchpads
 - statuscmd
 - [x] sticky + stickyindicator
