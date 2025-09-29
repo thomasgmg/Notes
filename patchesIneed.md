@@ -10,9 +10,10 @@
 - [x] layoutmenu
 - [x] movecenter
 - [x] moveresize
-- [x] pertag
 - [x] movestack
+- [x] pertag
 - [x] scratchpads
+- [x] showselmon
 - [ ] statuscmd
 - [x] sticky + stickyindicator
 <!-- - [x] systray (have to analyse this carefully 'cause it messes with the barpadding patch I applied) -->
