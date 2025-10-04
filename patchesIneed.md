@@ -14,6 +14,7 @@
 - [x] pertag
 - [x] scratchpads
 - [x] showselmon
+- [x] statusallmons
 - [ ] statuscmd
 - [x] sticky + stickyindicator
 <!-- - [x] systray (have to analyse this carefully 'cause it messes with the barpadding patch I applied) -->
